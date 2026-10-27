@@ -4,6 +4,8 @@ Graduate Cloud Engineer at Sage (Sage Intacct, Data Platform & Reporting) in San
 
 At work I build AI agents and internal tools for data-platform troubleshooting: Snowflake Cortex agents in Slack, and one tool registry that serves Slack, a CLI, and MCP. That code is private, so this page is what I build on my own.
 
+**Portfolio:** [pranavmulakala.github.io](https://pranavmulakala.github.io) has screen recordings of these projects and diagrams of my work at Sage.
+
 ## Projects
 
 - **[deterministic-swing-trading-research](https://github.com/PranavMulakala/deterministic-swing-trading-research)**: paper-only ETF swing-trading research in Python. Checkpointed data ingestion, SHA-256 integrity checks, and a hash-chained SQLite event journal so every result can be reproduced.
@@ -15,4 +17,4 @@ I also built diagnostics APIs and an LLM triage eval for the open-source project
 
 **Stack I use most:** Python, TypeScript, SQL, AWS, Azure, Snowflake, Docker, FastAPI, React
 
-[LinkedIn](https://linkedin.com/in/pranav-mulakala) · pranavm1104@gmail.com
+[Portfolio](https://pranavmulakala.github.io) · [LinkedIn](https://linkedin.com/in/pranav-mulakala) · pranavm1104@gmail.com
